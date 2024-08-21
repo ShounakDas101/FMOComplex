@@ -6,3 +6,4 @@ For more details look at main.pdf and https://medium.com/@shounakdas246/quantum-
 
 This article also helped me a lot
 https://artmenlope.github.io/solving-the-2d-schrodinger-equation-using-the-crank-nicolson-method/
+Note the x and y axis convention used in this article is different from our code
